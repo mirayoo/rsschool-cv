@@ -1,5 +1,7 @@
 # Nikita Kopot
 
+![Just me](https://sun9-east.userapi.com/sun9-58/s/v1/ig2/NoG_p1j2oclAlNuWyiVseKb8Id0a30NS_EbiWMkZWToUijBCRvARuZJwi8E0Fg1DXlmb9wG9B3S2_42ocoXeEOgH.jpg?size=1620x2160&quality=96&type=album "Just me")
+
 ## Contacts
 
 * **Discord**: Nikita Kopot (@mirayoo)
@@ -41,3 +43,20 @@ if (bonus !== false) {
 };
 bonusTime(50, false);
 ```
+
+## Work experience
+
+1. Store landing Page 
+  * [Repo](https://github.com/mirayoo/harness)
+  * [Website](https://mirayoo.github.io/harness/)
+2. Landing Page
+  * [Repo](https://github.com/mirayoo/levelup)
+  * [Website](https://mirayoo.github.io/levelup/)
+
+## Education
+
+I graduated from medical university
+
+## English level
+
+Upper Intermediate (CEFR B2)
